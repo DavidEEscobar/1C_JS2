@@ -1,0 +1,7 @@
+El trabajo consiste en introducir un numero, detectar si es un numero abundante y mostrar en pantalla el resultado del analisis
+
+QUE ES UN NUMERO ABUNDANTE:
+-un numero abundante es aquel numero que la suma de sus divisores propios es mayor que el numero inicial
+
+-los primeros numeros abunantes son:
+12, 18, 20, 24, 30, 36, 40, 42, 48, 54, 56, 60, 66, 70, 72, 78, 80, 84, 88, 90, 96, 100, 102, …
